@@ -4,6 +4,7 @@
 2. Write a convolution operation with edge detection kernel and ReLU activation function.
 3. Write a pooling operation using max pooling, 2x2 filter, stride two.
 4. Write binarization operation.
+[hw1_report](hw1_report.pdf)
 
 # hw2
 1. Implement mean filter and output image histogram
